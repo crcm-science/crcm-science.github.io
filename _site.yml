@@ -1,6 +1,6 @@
 name: "crcm-science"
 navbar:
-  title: "{org}"
+  title: "crcm-science"
   left:
     - text: "Home"
       href: index.html
