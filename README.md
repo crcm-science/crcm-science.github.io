@@ -1,2 +1,2 @@
 # crcm-science.github.io
-group project website  [EDS 211](https://bbest.github.io/eds211-team)
+Group project website for [EDS 211](https://bbest.github.io/eds211-team)
