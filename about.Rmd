@@ -4,3 +4,5 @@ title: "About"
 
 
 ## Team Members
+
+- [Alex Clippinger](https://github.com/alexclippinger)
