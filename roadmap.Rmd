@@ -1,6 +1,6 @@
 ---
 title: "Roadmap"
-author: "Alex Clippinger"
+author: "Alex Clippinger; Charles Hendrickson; Connor Flynn"
 date: "11/22/2021"
 output: html_document
 ---
