@@ -6,3 +6,8 @@ title: "About"
 ## Team Members
 
 - [Alex Clippinger](https://github.com/alexclippinger)
+
+- [Charles Hendrickson](https://github.com/charleshendrickson)
+
+- [Connor Flynn](https://github.com/ConnorFlynn)
+
